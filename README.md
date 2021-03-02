@@ -3,4 +3,4 @@ In a recruitment process I was asked to complete a test of my deductive reasonin
 
 A lot of the recruiters using these tests claim that deductive reasoning is something static (like IQ), so your training shouldn't improve your results. But it's still a fun puzzle :) 
 
-You run it with 'python3 CLI_seashells.py"
+You run it by typing 'python3 CLI_seashells.py' into your terminal. 
